@@ -17,6 +17,7 @@ std::array<std::pair<std::string, std::string>, 31> const kLanguageList =
 {{
   {"en", "English"},
   {"ru", "Русский"},
+  {"be", "Беларуская"},
   {"cs", "Čeština"},
   {"da", "Dansk"},
   {"de", "Deutsch"},
